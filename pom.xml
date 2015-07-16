@@ -32,13 +32,11 @@
                             <configuration>
                                 
                                 <remoteConfig>
-                                     <startServersBeforeTests>true</startServersBeforeTests>
+                                    
                                     <serverList>92.246.242.232</serverList>
-									<stopServersAfterTests>false</stopServersAfterTests>
+									
                                  </remoteConfig>
-                            <reporting>
-                             <outputDirectory>"/home/paasadmin/.jenkins/workspace/SampleJMeter/target/jmeter/results/"</outputDirectory>
-                          </reporting>   
+                              
 							</configuration>
 						</execution>
 					</executions>
