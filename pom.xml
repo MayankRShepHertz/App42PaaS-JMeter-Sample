@@ -24,6 +24,12 @@
 						<goals>
 							<goal>jmeter</goal>
 						</goals>
+						<configuration>
+							<remoteConfig>
+                                     <startServersBeforeTests>true</startServersBeforeTests>
+                                     <serverList>92.246.242.232</serverList>
+							</remoteConfig>
+						</configuration>
 					</execution>
 				</executions>
 			</plugin>
