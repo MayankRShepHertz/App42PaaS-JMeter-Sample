@@ -32,7 +32,8 @@
                             <configuration>
                                 
                                 <remoteConfig>
-                                    
+                                     <startServersBeforeTests>true</startServersBeforeTests>
+									 <stopServersAfterTests>false</stopServersAfterTests>
                                     <serverList>92.246.242.232</serverList>
 									
                                  </remoteConfig>
