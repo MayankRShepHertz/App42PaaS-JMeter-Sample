@@ -38,6 +38,7 @@
                                 <remoteConfig>
                                      <startServersBeforeTests>true</startServersBeforeTests>
                                     <serverList>92.246.242.232</serverList>
+									<stopServersAfterTests>false</stopServersAfterTests>
                                  </remoteConfig>
                             
 							</configuration>
