@@ -37,7 +37,9 @@
                                     <serverList>92.246.242.232</serverList>
 									
                                  </remoteConfig>
-                              
+                              <propertiesSystem>
+								<java.rmi.server.hostname>Jenkins</java.rmi.server.hostname>
+								</propertiesSystem>
 							</configuration>
 						</execution>
 					</executions>
